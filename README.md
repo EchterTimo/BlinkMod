@@ -1,18 +1,25 @@
 # BlinkMod for *Jump Ship*
 
 A debug/utility mod for *Jump Ship* using [MelonLoader](https://melonwiki.xyz/) and Il2Cpp.  
-BlinkMod enables teleportation, respawn, and intelligent blink-through-wall functionality using keyboard and mouse inputs.
+BlinkMod enables teleportation, respawn, saving and loading positions and intelligent blink-through-wall functionality using keyboard and mouse inputs.
 
 ## 🔧 Features
 
-- **Blink (F1 or Mouse Forward Button)**  
+- **Blink (F1 or Mouse Forward Button)**
   Instantly teleport to the object you're looking at.
 
-- **Smart Blink (F2)**  
+- **Smart Blink (F2)**
   Attempt to blink through a wall to the first safe open space behind it.
 
-- **Respawn (F3)**  
+- **Respawn (F3)**
   Instantly respawn your character.
+
+- **Save Position (F4)**
+  Save your current position.
+
+- **Load Position (F5)**
+  Teleport to your last saved position.
+
 
 ## 🎮 Controls
 
@@ -21,6 +28,8 @@ BlinkMod enables teleportation, respawn, and intelligent blink-through-wall func
 | `F1` or Mouse Forward | Teleport to where you're aiming |
 | `F2`                  | Blink past wall to open space   |
 | `F3`                  | Respawn player                  |
+| `F4`                  | Save current position           |
+| `F5`                  | Load your last saved position   |
 
 ## 💡 Installation
 
