@@ -24,14 +24,15 @@ BlinkMod enables teleportation, respawn, and intelligent blink-through-wall func
 
 ## 💡 Installation
 
-1. Install [MelonLoader](https://melonwiki.xyz/#/mdk/setup) for *Jump Ship*.
-2. Place `BlinkMod.dll` into your `Mods/` folder inside the game directory.
-3. Launch the game. If successful, the console will display:  
+1. Install [MelonLoader](https://melonwiki.xyz/#/mdk/setup) for **Jump Ship**.
+1. Download **BlinkMod.dll** from the [latest releases](https://github.com/szymky/BlinkMod/releases/latest).
+1. Place **BlinkMod.dll** into your `Mods/` folder inside the game directory.
+1. Launch the game. If successful, the console will display:  
    `BlinkMod: Initialized.`
 
 ## 🛠 Requirements
 
-- **Game:** Jump Ship by KeepsakeGames  
+- **Game:** [Jump Ship](https://store.steampowered.com/app/2841820/Jump_Ship_Demo/) by Keepsake Games.
 - **Mod Loader:** [MelonLoader](https://melonwiki.xyz/)  
 - **Dependencies:** None beyond base game libraries
 
